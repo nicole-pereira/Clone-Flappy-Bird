@@ -1,4 +1,4 @@
-# Clone-Flappy-Bird
+# Clone Flappy Bird
  Clone do Flappy Bird usando C# na Unity.
  
  ![](fb1.png)
